@@ -9,9 +9,9 @@ Consulte **[o site](https://661f068c73bf919aaab4474a--minipi1bimestre.netlify.ap
 
 ### 📋 Pré-Visualização
 
-Home do site:
+site:
 
-![Home](images/print_site.jpeg)
+![Site](Images/print_site.jpeg)
 
 
 
