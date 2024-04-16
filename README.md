@@ -1,11 +1,11 @@
-# Meu Currículo
+# Mini PI
 
-Esse é um projeto criado em sala de aula, com o intuito de criar um currículo em HTML.
+Esse é um projeto criado em sala de aula, com o intuito de fazer um Mini PI, fazendo um site utilizando outro como exemplo.
 
 ## 🚀 Começando
 
 
-Consulte **[o meu Currículo](https://analauralisportifolio.tiiny.site/?classId=37e2308e-350a-47a0-9146-9ba0883a9999&assignmentId=9654d039-0239-41f8-af9b-357f7bacc96c&submissionId=964bc114-0390-1dbc-7d6d-53847d56b7c6)** para visualizar o projeto.
+Consulte **[o site](https://661f068c73bf919aaab4474a--minipi1bimestre.netlify.app/)** para visualizar o projeto.
 
 ### 📋 Pré-Visualização
 
