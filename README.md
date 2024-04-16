@@ -1,6 +1,6 @@
 # Mini PI
 
-Esse é um projeto criado em sala de aula, com o intuito de fazer um Mini PI, fazendo um site utilizando outro como exemplo.
+Esse é um projeto criado em sala de aula, com o intuito de fazer um Mini PI, utilizando outro site como exemplo.
 
 ## 🚀 Começando
 
