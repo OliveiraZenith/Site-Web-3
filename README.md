@@ -11,19 +11,8 @@ Consulte **[o site](https://661f068c73bf919aaab4474a--minipi1bimestre.netlify.ap
 
 Home do site:
 
-![Home](imagens/printsite1.png)
+![Home](images/print_site.jpeg)
 
-
-
-Work:
-
-![Works](imagens/printsite2.png)
-
-
-
-About me:
-
-![About me](imagens/printsite3.png)
 
 
 ---
