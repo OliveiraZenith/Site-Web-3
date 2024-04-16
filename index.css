@@ -1,0 +1,89 @@
+
+body{
+    background-color: #89CDA5;
+    padding: 1px;
+    text-align: center;
+
+}
+
+header{
+    text-align: center;
+    background-color: #2A7348;
+    color: white;
+    height: 110px;
+    padding: 10px;
+    background-image: linear-gradient(to bottom, #5CBE7D, #1A5A37);
+
+}
+nav{
+    background-color: #1A5A37;
+    color: white;
+    text-align: left;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+iframe{
+    background-color: #1A5A37;
+    padding: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+main{
+    background-color: #FFFFFF;
+    padding: 25px;
+    margin: 0px 300px;
+}
+
+img{
+    text-align: center;
+    padding: 0px;
+}
+
+aside{
+    background-color: #89CDA6;
+    text-align: left;
+    padding: 0px;
+}
+
+.title1{
+    color: #1A5A37;
+    text-align: center;
+    padding: 20px;
+}
+
+.title2{
+    color: #1A5A37;
+    text-align: left;
+    font-family: var(--font-android);
+    background-color: #8ACDA6;
+    border-radius: 20px 0px 0px 20px;
+    padding: 0px 10px 0px;
+}
+
+.text{
+    text-align: justify;
+    padding: 1px;
+    text-indent: 2em;
+}
+
+.titletable{
+    background-color: #2FA866;
+    color: white;
+    padding: 10px;
+}
+
+.table{
+    padding: 0px 10px;
+}
+
+.bottom{
+    padding: 0px 10px 10px;
+    text-indent: 2em;
+}
